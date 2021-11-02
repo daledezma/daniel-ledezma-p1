@@ -1,6 +1,6 @@
-#ECULink Tuning
+# ECULink Tuning
 
-##Project Plan
+## Project Plan
 
 For my project, I will be producing a website that offers remote car tuning services for Mitsubishi Evo X and Ralliart vehicles. I will be naming the website ECULink Tuning. In short, users who access the site will be in need of car tuning services once modifications are made to their car to optimize it for a different set of performance requirements from what it was originally designed to meet from the factory. 
 
